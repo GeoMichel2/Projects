@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+h1{
+  font-size: 3rem;
+  margin-top: 50px;
+}
+h2{
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+.dnd{
+  height: 300px;
+  width: 500px;
+}
+.projects{
+  margin: 100px auto 100px auto;
+  width: 50%;
+}
